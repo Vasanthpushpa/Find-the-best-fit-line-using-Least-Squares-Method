@@ -50,8 +50,7 @@ print(Y_Pred)
 
 ## Output:
 
-![image](https://github.com/Vasanthpushpa/Find-the-best-fit-line-using-Least-Squares-Method/assets/119291100/03f3a884-e1f5-4212-9b82-b782f5dbb26a)
-
+![image](https://github.com/Vasanthpushpa/Find-the-best-fit-line-using-Least-Squares-Method/assets/119291100/21a9db90-e5f5-4752-9f99-d8c6e99bd1ea)
 
 
 
